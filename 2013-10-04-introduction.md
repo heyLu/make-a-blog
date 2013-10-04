@@ -1,3 +1,6 @@
+---
+---
+
 # What is this going to be like?
 
 We're going to build a little *hacker blog*, that is, just HTML + CSS and
